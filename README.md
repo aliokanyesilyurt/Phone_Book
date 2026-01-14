@@ -1,5 +1,3 @@
-Markdown
-
 # 📞 Multilingual Phonebook Application in C
 
 A robust, console-based Phonebook application developed in C. This project demonstrates advanced memory management, file handling, and custom regex validation for phone numbers.
